@@ -30,7 +30,7 @@ Include "JUICE-CylTank.geo";
 Include "JUICE-MainThrusters.geo";
 Include "JUICE-AttitudeThrusters.geo";
 Include "JUICE-SolarArrays.geo";
-Include "JUICE-PWI.geo";
+//Include "JUICE-PWI.geo";
 
 
 
